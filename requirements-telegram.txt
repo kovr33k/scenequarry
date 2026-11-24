@@ -1,2 +1,2 @@
 # Optional authorized-user Telegram route; install in the private runtime only.
-Telethon==1.45.0
+Telethon==1.46.0

@@ -7,7 +7,7 @@ curl-cffi==0.17.0
 cffi==2.1.1
 pycparser==3.12
 brotli==1.2.1
-certifi==2026.10.23
+certifi==2026.11.20
 charset-normalizer==3.5.2
 idna==3.20
 mutagen==1.48.1
